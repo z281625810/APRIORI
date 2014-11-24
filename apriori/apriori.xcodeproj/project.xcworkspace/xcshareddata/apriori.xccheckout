@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>69AE7080-D9EC-43CB-9AA0-EF2AAB99DE3A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>apriori</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>29BDC9D9373760BDF14267CEF4B0E7E608123B4F</key>
+		<string>https://github.com/pappacurds/APRIORI.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>apriori/apriori.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>29BDC9D9373760BDF14267CEF4B0E7E608123B4F</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/pappacurds/APRIORI.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>29BDC9D9373760BDF14267CEF4B0E7E608123B4F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>29BDC9D9373760BDF14267CEF4B0E7E608123B4F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>APRIORI</string>
+		</dict>
+	</array>
+</dict>
+</plist>
